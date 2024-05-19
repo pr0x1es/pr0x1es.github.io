@@ -1,4 +1,4 @@
-# All games that appear on here are for educational purposes i do not own any of the games that appear here!
+# Games that appear here, I do not own. Credits to every owner to each respected game.
 
 # webretro
 [RetroArch](https://github.com/libretro) ported to WebAssembly with [emscripten](https://emscripten.org/)!
