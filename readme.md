@@ -1,5 +1,3 @@
-# Games that appear here, I do not own. Credits to every owner to each respected game.
-
 # webretro
 [RetroArch](https://github.com/libretro) ported to WebAssembly with [emscripten](https://emscripten.org/)!
 
